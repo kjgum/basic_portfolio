@@ -10,6 +10,7 @@
 
 	h1.name {
 		background-color: #4aaaa5;
+<<<<<<< HEAD
 		width: 250px;
 		text-align: center;
 		padding: 10px;
@@ -17,6 +18,15 @@
 		top: 37px;
 		left: 70px;
 		font-size: 30px;
+=======
+		width: 300px;
+		float: bottom;
+		text-align: center;
+		padding: 10px;
+		position: absolute;
+		top: 16.5px;
+		left: 70px;
+>>>>>>> 2d927511a1622feb8966063443fcf399b6043968
 
 	}
 	
@@ -91,13 +101,21 @@
 
 	h3 {
 		border-bottom: 1px solid #dddddd;
+<<<<<<< HEAD
 		padding-bottom: 50px;
+=======
+		padding-bottom: 15px;
+>>>>>>> 2d927511a1622feb8966063443fcf399b6043968
 		color:#4aaaa5;
 	}
 
 	h2 {
 		border-bottom: 1px solid #dddddd;
+<<<<<<< HEAD
 		padding-bottom: 50px;
+=======
+		padding-bottom: 15px;
+>>>>>>> 2d927511a1622feb8966063443fcf399b6043968
 		font-family: 'Georgia', Times, Times New Roman, serif;
 		color:#4aaaa5;
 	}
